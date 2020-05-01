@@ -1,3 +1,7 @@
+# fork note
+
+This is a fork of the [`v2` branch](https://github.com/kenperkins/winston-papertrail/tree/v2)
+
 # winston-papertrail [![Build Status](https://secure.travis-ci.org/kenperkins/winston-papertrail.png?branch=master)](http://travis-ci.org/kenperkins/winston-papertrail) [![NPM version](https://badge.fury.io/js/winston-papertrail.png)](http://badge.fury.io/js/winston-papertrail)
 
 A Papertrail transport for [winston][0].

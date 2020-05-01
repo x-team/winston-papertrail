@@ -1,11 +1,11 @@
 {
-  "name": "winston-papertrail",
+  "name": "@x-team/winston-papertrail",
   "description": "A Papertrail transport for winston",
   "version": "1.0.5",
   "author": "Ken Perkins <ken.perkins@rackspace.com>",
   "repository": {
     "type": "git",
-    "url": "http://github.com/kenperkins/winston-papertrail.git"
+    "url": "git+ssh://git@github.com/kenperkins/winston-papertrail.git"
   },
   "keywords": [
     "logging",
@@ -34,5 +34,14 @@
   },
   "engines": {
     "node": ">= 0.4.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/kenperkins/winston-papertrail/issues"
+  },
+  "homepage": "https://github.com/kenperkins/winston-papertrail#readme",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "license": "MIT"
 }
